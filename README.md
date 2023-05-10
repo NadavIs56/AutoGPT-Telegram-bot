@@ -3,6 +3,10 @@
 ##  <p align ="center" height="40px" width="40px"> AutoGPT Telegram Bot is a Python-based chatbot developed for a self-learning project. It leverages the power of OpenAI's GPT language model to answer user questions and maintain conversation history for more accurate responses..</p>
 
 
+<p align ="center">
+<a href="https://openai.com/" target="_blank" rel="noreferrer">   <img src="https://venturebeat.com/wp-content/uploads/2019/04/d2fcb133-1ed1-4a92-bd7f-8be7cfc96cec.png?fit=1840%2C1000&strip=all" width="32" height="32" /></a>
+</p>
+
 ##     <p align = "left"> Features </p>
 - Seamless integration with Telegram: The bot interacts with users through the Telegram messaging platform, allowing them to ask questions and receive automated responses.
 - OpenAI GPT integration: By leveraging the OpenAI GPT API, the bot generates accurate and context-aware responses to a wide range of user queries.
