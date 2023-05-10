@@ -25,8 +25,8 @@ Before running the bot, make sure you have the following dependencies installed:
 2. Navigate to the project directory:   cd autogpt-telegram-bot
 
 3. Configure the bot:
-- Obtain an API key from the OpenAI GPT API.
-- obtain an API key from the BotFater Telegram bot.
+  - Obtain an API key from the OpenAI GPT API.
+  - obtain an API key from the BotFater Telegram bot.
 
 4. python autoGPT_Telegram-bot.py
 
