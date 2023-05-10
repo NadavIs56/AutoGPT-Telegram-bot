@@ -11,7 +11,6 @@
 - Simple and beginner-friendly: The project is designed to be straightforward, making it accessible to beginners in Python programming and natural language processing.
 
 ##     <p align = "left"> Prerequisites </p>
-
 Before running the bot, make sure you have the following dependencies installed:
 - Python 3.x
 - pickle library: Install using pip install pickle
