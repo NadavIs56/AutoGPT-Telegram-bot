@@ -5,7 +5,7 @@
 
 <p align ="center">
 <a href="https://openai.com/" target="_blank" rel="noreferrer">   <img src="https://logowik.com/content/uploads/images/openai5002.jpg" width="48" height="48" /></a>
-<a href="https://web.telegram.org/k/" target="_blank" rel="noreferrer">   <img src="https://logowik.com/content/uploads/images/telegram-messenger-new4234.jpg" width="48" height="48" /></a>
+<a href="https://web.telegram.org/k/" target="_blank" rel="noreferrer">   <img src="	https://static.vecteezy.com/system/resources/previ…/telegram-logo-telegram-icon-free-free-vector.jpg" width="48" height="48" /></a>
 </p>
 
 ##     <p align = "left"> Features </p>
