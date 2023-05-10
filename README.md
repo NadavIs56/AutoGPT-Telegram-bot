@@ -4,7 +4,7 @@
 
 
 <p align ="center">
-<a href="https://openai.com/" target="_blank" rel="noreferrer">   <img src="https://venturebeat.com/wp-content/uploads/2019/04/d2fcb133-1ed1-4a92-bd7f-8be7cfc96cec.png?fit=1840%2C1000&strip=all" width="32" height="32" /></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer">   <img src="https://logowik.com/content/uploads/images/openai5002.jpg" width="32" height="32" /></a>
 </p>
 
 ##     <p align = "left"> Features </p>
