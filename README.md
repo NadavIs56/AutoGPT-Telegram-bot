@@ -4,8 +4,8 @@
 
 
 <p align ="center">
-<a href="https://openai.com/" target="_blank" rel="noreferrer">   <img src="https://logowik.com/content/uploads/images/openai5002.jpg" width="48" height="48" /></a>
-<a href="https://web.telegram.org/k/" target="_blank" rel="noreferrer">   <img src="https://www.pngkit.com/png/detail/897-8972864_telegram-telegram-logo-png.png" width="48" height="48" /></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer">   <img src="https://yt3.googleusercontent.com/UqT_vCkJIn1P2fH1pchr6lbe3xeEekY61h4bUpJkVuityqKOEtUYcNy3pLiJ5OKdj4uKA81FWE8=s900-c-k-c0x00ffffff-no-rj" width="32" height="32" /></a>
+<a href="https://web.telegram.org/k/" target="_blank" rel="noreferrer">   <img src="https://www.pngkit.com/png/detail/897-8972864_telegram-telegram-logo-png.png" width="32" height="32" /></a>
 </p>
 
 ##     <p align = "left"> Features </p>
