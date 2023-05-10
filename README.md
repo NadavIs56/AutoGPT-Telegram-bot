@@ -25,14 +25,14 @@ Before running the bot, make sure you have the following dependencies installed:
 2. Navigate to the project directory:   cd autogpt-telegram-bot
 
 3. Configure the bot:
-    - Obtain an API key from the OpenAI GPT API.
-    - obtain an API key from the BotFater Telegram bot.
+  - Obtain an API key from the OpenAI GPT API.
+  - obtain an API key from the BotFater Telegram bot.
 
 4. python autoGPT_Telegram-bot.py
 
 5. Enter the Sudoku puzzle:   
-    - Provide 9 lines of input, each containing 9 digits separated by a space.
-    - Press enter after each line.
+  - Provide 9 lines of input, each containing 9 digits separated by a space.
+  - Press enter after each line.
 
 6. Start a conversation with the bot on Telegram and ask your questions. The bot will respond with generated answers based on the OpenAI GPT model, taking into account the conversation history to provide relevant replies.
 
