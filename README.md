@@ -13,6 +13,6 @@
 ##     <p align = "left"> Prerequisites </p>
 Before running the bot, make sure you have the following dependencies installed:
 - Python 3.x
-- pickle library: Install using pip install pickle
-- openai library: Install using pip install openai
-- telebot library: Install using pip install pyTelegramBotAPI
+- pickle library: Install using pip install 'pickle'
+- openai library: Install using pip install 'openai'
+- telebot library: Install using pip install 'telebot'
