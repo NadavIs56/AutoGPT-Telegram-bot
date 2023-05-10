@@ -4,7 +4,7 @@
 
 
 <p align ="center">
-<a href="https://openai.com/" target="_blank" rel="noreferrer">   <img src="https://logowik.com/content/uploads/images/openai5002.jpg" width="32" height="32" /></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer">   <img src="https://logowik.com/content/uploads/images/openai5002.jpg" width="48" height="48" /></a>
 </p>
 
 ##     <p align = "left"> Features </p>
