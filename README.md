@@ -49,3 +49,7 @@ If you have any ideas, improvements, or bug fixes, please submit a pull request.
 ##     <p align = "left"> Acknowledgements </p>
 - The AutoGPT Telegram Bot project utilizes the OpenAI GPT language model, a powerful tool for generating human-like text.
 - Special thanks to OpenAI for providing the GPT API and to the developers of the telebot library for simplifying Telegram bot integration.
+
+<br>
+
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
