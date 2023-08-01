@@ -9,6 +9,9 @@
 <a href="https://web.telegram.org/k/" target="_blank" rel="noreferrer">   <img src="https://www.pngkit.com/png/detail/897-8972864_telegram-telegram-logo-png.png" width="32" height="32" /></a>
 </p>
 
+<br>
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+
 ##     <p align = "left"> Features </p>
 - Seamless integration with Telegram: The bot interacts with users through the Telegram messaging platform, allowing them to ask questions and receive automated responses.
 - OpenAI GPT integration: By leveraging the OpenAI GPT API, the bot generates accurate and context-aware responses to a wide range of user queries.
